@@ -1,4 +1,6 @@
 URL#helppack#SDK#Name
 https://dev-builds.libreoffice.org/daily/master/Win-x86_64@tb77-TDF/current/#true#true#Master x86_64 [LO TB77-TDF]
 https://dev-builds.libreoffice.org/daily/master/Win-x86@39/current/#false#true#Master x86 [LO TB39]
-https://www.collaboraoffice.com/downloads/Collabora-Office-22-Snapshot/Windows/#false#false#Snapshot [Collabora]
+https://www.collaboraoffice.com/downloads/Collabora-Office-21-Snapshot/Windows/#false#false#Snapshot 21.06 [Collabora]
+https://www.collaboraoffice.com/downloads/Collabora-Office-22-Snapshot/Windows/#false#false#Snapshot 22.05 [Collabora]
+https://www.collaboraoffice.com/downloads/Collabora-Office-23-Snapshot/Windows/#false#false#Snapshot 23.05 [Collabora]
